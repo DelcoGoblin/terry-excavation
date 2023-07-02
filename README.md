@@ -1,11 +1,4 @@
-# Shooter Template
-Designed as a minimal starting point for your projects in s&box.
+# Shooter Template modified to use code from Conna's Procgen project
 
-## Features
-- First person pawn
-- Simple pawn controller
-- Simple weapon system
-
-## Controls
-- Regular movement with WASD
-- Shoot weapon with LMB
+# Requires https://github.com/Facepunch/sbox-voxels
+Procgen code/assets already included
